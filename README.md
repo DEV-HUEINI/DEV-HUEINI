@@ -146,14 +146,8 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 </div>
 
 
-<div style="text-align: center; margin-top: 20px;">
+[![Visite minha Galeria](https://img.shields.io/badge/-Visite%20minha%20Galeria-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://www.dio.me/users/hueini_david)
 
-  <a href="https://www.dio.me/users/hueini_david" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center; background-color: #1e52cc; color: white; padding: 10px 14px; border-radius: 8px; font-size: 12px; font-weight: bold;">
-      Visite minha Galeria
-    </span>
-  </a>
-</div>
 
 
 
