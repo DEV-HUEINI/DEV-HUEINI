@@ -88,6 +88,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 
 
+
 ## >_ GitHub Stats
 
 | **GitHub Stats** | **GitHub Streak** |
