@@ -1,4 +1,6 @@
-<div align="center" align-items: center;">
+!-- <div align="center" align-items: center;"> -->
+
+<div">
 
 <div style="background-image: url('https://github.com/Hueini/images/blob/main/23485382_42.jpg?raw=true'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
 
