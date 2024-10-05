@@ -158,12 +158,15 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
   
 </div>
 
-
-<div align="center">
-
-[![Visite minha Galeria](https://img.shields.io/badge/-Visite%20minha%20Galeria-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://www.dio.me/users/hueini_david)
-
+<div align="center" style="display: flex; justify-content: center;">
+  <div>
+    [![Visite minha Galeria](https://img.shields.io/badge/-Visite%20minha%20Galeria-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://www.dio.me/users/hueini_david)
+  </div>
+  <div>
+    [![Visite Meus Certificados](https://img.shields.io/badge/-Visite%20minha%20Galeria-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://hueini.com.br/#certificados)
+  </div>
 </div>
+
 
 
 <!-- <h2 align="center">Principais tecnologias:</h2>
