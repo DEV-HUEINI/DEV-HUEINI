@@ -1,7 +1,5 @@
 <!-- <div align="center" align-items: center;"> -->
 
-<div">
-
 <div style="background-image: url('https://github.com/Hueini/images/blob/main/23485382_42.jpg?raw=true'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
 
 <h1 align="center" style="color: #1e52cc; align-items: center;">
@@ -171,4 +169,4 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
   <img src="https://profile-counter.glitch.me/Hueini/count.svg" alt="Visitor Count" width="150" height="auto">
 </div>
 
-</div>
+
