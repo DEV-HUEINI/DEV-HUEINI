@@ -79,8 +79,51 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 ## >_ Vídeos
 
-| **Análise de Sentimentos em Avaliações de Produtos** | **Outro Vídeo 2** |
-| [![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8) | [![Outro Vídeo 2](https://img.youtube.com/vi/ID_DO_VIDEO1/0.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO1) |
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>Carrossel de Vídeos</title>
+</head>
+<body>
+
+<div id="videoCarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <a href="https://www.youtube.com/watch?v=eFMpne_vVa8" target="_blank">
+                <img src="https://img.youtube.com/vi/eFMpne_vVa8/0.jpg" class="d-block w-100" alt="Análise de Sentimentos em Avaliações de Produtos">
+            </a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Análise de Sentimentos em Avaliações de Produtos</h5>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <a href="https://www.youtube.com/watch?v=ID_DO_VIDEO1" target="_blank">
+                <img src="https://img.youtube.com/vi/ID_DO_VIDEO1/0.jpg" class="d-block w-100" alt="Outro Vídeo 2">
+            </a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Outro Vídeo 2</h5>
+            </div>
+        </div>
+        <!-- Adicione mais itens de vídeo conforme necessário -->
+    </div>
+    <a class="carousel-control-prev" href="#videoCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Anterior</span>
+    </a>
+    <a class="carousel-control-next" href="#videoCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Próximo</span>
+    </a>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
 
 
 
