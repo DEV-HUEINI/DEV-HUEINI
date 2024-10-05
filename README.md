@@ -80,10 +80,13 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 ## >_ Vídeos
 
-[![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8) 
-&nbsp; 
-[![Projeto IOT Com Wikwi, Python, Hivemq, Influxdb e Grafana](https://img.youtube.com/vi/ddNoWz2HxkU/0.jpg)](https://www.youtube.com/watch?v=ddNoWz2HxkU) 
-
+<a href="https://www.youtube.com/watch?v=eFMpne_vVa8">
+    <img src="https://img.youtube.com/vi/eFMpne_vVa8/0.jpg" width="320" height="180" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=ddNoWz2HxkU">
+    <img src="https://img.youtube.com/vi/ddNoWz2HxkU/0.jpg" width="320" height="180" />
+</a>
 
 
 
