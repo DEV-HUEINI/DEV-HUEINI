@@ -79,11 +79,10 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 ## >_ Vídeos
 
-| **Próximos Vídeos** | **Análise de Sentimentos em Avaliações de Produtos** |
-|---------------------|------------------------------------------------------|
-|---------------------||
-|---------------------||
-|---------------------||
+[![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8) 
+&nbsp; 
+[![Outro Vídeo 1](https://img.youtube.com/vi/ID_DO_VIDEO1/0.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO1)
+
 
 
 
