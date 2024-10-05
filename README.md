@@ -51,7 +51,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 
 
-## Habilidades
+## >_ Habilidades
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=fcc419)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=E94D5F)
@@ -80,7 +80,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-000?style=for-the-badge&logo=ai&logoColor=00FF00)
 
 
-## Projetos
+## >_ Projetos
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=dio-lab-open-source&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/dio-lab-open-source)
 
@@ -88,7 +88,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=POS-AD-PROJETO-IOT&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/POS-AD-PROJETO-IOT)
 
-## Vídeos
+## >_ Vídeos
 Aqui está um vídeo de demonstração que mostra todo o processo:
 
 [![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8)
@@ -97,7 +97,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 
 
-## GitHub Stats
+## >_ GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <div style="flex: 1 1 400px; text-align: center;">
@@ -116,7 +116,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 
 
-## Galeria DIO
+## >_ Galeria DIO
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
