@@ -87,7 +87,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 ## >_ GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
 
   <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=DEV-HUEINI&theme=transparent&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF" alt="GitHub Stats" style="width: 400px;">
@@ -106,6 +106,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
   </div>
 
 </div>
+
 
 
 
