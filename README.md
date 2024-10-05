@@ -78,10 +78,12 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 
 ## >_ Vídeos
-Aqui está um vídeo de demonstração que mostra todo o processo:
 
-[![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8)
-
+| **Análise de Sentimentos em Avaliações de Produtos** | **Outro Vídeo 1** |
+|:--:|:--:|
+| [![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8) | [![Título do Vídeo 1](https://img.youtube.com/vi/ID_DO_VIDEO1/0.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO1) |
+| **Outro Vídeo 2** | **Outro Vídeo 3** |
+| [![Título do Vídeo 2](https://img.youtube.com/vi/ID_DO_VIDEO2/0.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO2) | [![Título do Vídeo 3](https://img.youtube.com/vi/ID_DO_VIDEO3/0.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO3) |
 
 
 
