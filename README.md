@@ -83,6 +83,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-000?style=for-the-badge&logo=ai&logoColor=00FF00)
 
 
+
 <!-- ################################################################################################################################################################################################# -->
 <!-- ## >_ Projetos -->
 <!-- ################################################################################################################################################################################################# -->
@@ -95,6 +96,8 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 <!-- Botao -->
 ![Imagem Site Projetos](https://github.com/Hueini/images/blob/main/Projetos.png?raw=true)
 
+
+
 <!-- ################################################################################################################################################################################################# -->
 <!-- ## >_ Meus Códigos -->
 <!-- ################################################################################################################################################################################################# -->
@@ -105,6 +108,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 | [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=dio-lab-open-source&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/dio-lab-open-source) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=CURSO-DIO-IA-AWS-SAGEMAKER&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/CURSO-DIO-IA-AWS-SAGEMAKER) |
 | **Projeto IoT Pós-Graduação** |  |
 | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=POS-AD-PROJETO-IOT&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/POS-AD-PROJETO-IOT) |  |
+
 
 <!-- ################################################################################################################################################################################################# -->
 <!-- ## >_ Vídeos -->
@@ -119,6 +123,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 <a href="https://www.youtube.com/watch?v=ddNoWz2HxkU">
     <img src="https://img.youtube.com/vi/ddNoWz2HxkU/0.jpg" width="420" height="280" />
 </a>
+
 
 <!-- ################################################################################################################################################################################################# -->
 <!-- ## >_ GitHub Stats -->
