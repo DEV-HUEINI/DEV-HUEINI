@@ -160,7 +160,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 <div align="center">
   <!-- Botão 1 -->
-  [![Visite minha Galeria](https://img.shields.io/badge/-Visite%20minha%20Galeria-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://www.dio.me/users/hueini_david)
+  [![Visite minha Galeria]([https://img.shields.io/badge/-Visite%20Meus%20Projetos-1e52cc?style=for-the-badge&logo=&logoColor=white](https://img.shields.io/badge/-Visite%20meus%20Certificados-1e52cc?style=for-the-badge&logo=&logoColor=white))](https://www.dio.me/users/hueini_david)
 
   <!-- Botão 2 -->
   [![Visite Meus Certificados](https://img.shields.io/badge/-Visite%20meus%20Certificados-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://hueini.com.br/#certificados)
