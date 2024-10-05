@@ -158,7 +158,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
   
 </div>
 
-<div align="center">
+<div>
   
   <br>
   
