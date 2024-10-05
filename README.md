@@ -71,6 +71,13 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 
 ## >_ Projetos
 
+<div align="center">
+
+[![Visite Meus Projetos]([https://img.shields.io/badge/-Visite%20minha%20Galeria-1e52cc?style=for-the-badge&logo=&logoColor=white](https://hueini.com.br/#projetos)]
+
+</div>
+
+
 ![Texto alternativo](https://github.com/Hueini/images/blob/main/Projetos.png?raw=true)
 
 
@@ -140,7 +147,11 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 </div>
 
 
+<div align="center">
+
 [![Visite minha Galeria](https://img.shields.io/badge/-Visite%20minha%20Galeria-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://www.dio.me/users/hueini_david)
+
+</div>
 
 
 
