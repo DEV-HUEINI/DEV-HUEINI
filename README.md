@@ -87,20 +87,26 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 ## >_ GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <div style="flex: 1 1 400px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DEV-HUEINI&theme=transparent&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF" alt="GitHub Stats" style="width: 100%; max-width: 400px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
+
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DEV-HUEINI&theme=transparent&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF" alt="GitHub Stats" style="width: 400px;">
   </div>
-  <div style="flex: 1 1 400px; text-align: center;">
-    <img src="https://streak-stats.demolab.com/?user=DEV-HUEINI&theme=github-dark-blue&background=000&border=1e52cc&dates=FFF" alt="GitHub Streak" style="width: 100%; max-width: 400px;">
+
+  <div style="text-align: center;">
+    <img src="https://streak-stats.demolab.com/?user=DEV-HUEINI&theme=github-dark-blue&background=000&border=1e52cc&dates=FFF" alt="GitHub Streak" style="width: 400px;">
   </div>
-  <div style="flex: 1 1 400px; text-align: center;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEV-HUEINI&layout=compact&bg_color=000&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 400px;">
+
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEV-HUEINI&layout=compact&bg_color=000&hide_border=true" alt="Top Languages" style="width: 400px;">
   </div>
-  <div style="flex: 1 1 400px; text-align: center;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEV-HUEINI&bg_color=000&color=1e52cc&line=1e52cc&point=1e52cc&area=true&hide_border=true" alt="Activity Graph" style="width: 100%; max-width: 400px;">
+
+  <div style="text-align: center;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEV-HUEINI&bg_color=000&color=1e52cc&line=1e52cc&point=1e52cc&area=true&hide_border=true" alt="Activity Graph" style="width: 400px;">
   </div>
+
 </div>
+
 
 
 
