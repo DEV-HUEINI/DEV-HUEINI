@@ -109,7 +109,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 | [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=dio-lab-open-source&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/dio-lab-open-source) | <br> 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=CURSO-DIO-IA-AWS-SAGEMAKER&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/CURSO-DIO-IA-AWS-SAGEMAKER) |
 
-| **Projeto IoT Pós-Graduação** |  |
+| **Projeto IoT Pós-Graduação** |**Calculadora React** |
 | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=POS-AD-PROJETO-IOT&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/POS-AD-PROJETO-IOT) | <br> 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=CURSO-DIO-IA-AWS-SAGEMAKER&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/CURSO-DIO-IA-AWS-SAGEMAKER)|
 
