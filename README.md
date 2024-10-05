@@ -81,11 +81,11 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 ## >_ Vídeos
 
 <a href="https://www.youtube.com/watch?v=eFMpne_vVa8">
-    <img src="https://img.youtube.com/vi/eFMpne_vVa8/0.jpg" width="320" height="180" />
+    <img src="https://img.youtube.com/vi/eFMpne_vVa8/0.jpg" width="320" height="280" />
 </a>
 &nbsp;
 <a href="https://www.youtube.com/watch?v=ddNoWz2HxkU">
-    <img src="https://img.youtube.com/vi/ddNoWz2HxkU/0.jpg" width="320" height="180" />
+    <img src="https://img.youtube.com/vi/ddNoWz2HxkU/0.jpg" width="320" height="280" />
 </a>
 
 
