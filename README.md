@@ -137,7 +137,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 <!-- ## >_ Galeria DIO -->
 <!-- ################################################################################################################################################################################################# -->
 
-## >_ Galeria DIO
+## >_ Galeria e Certificados
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
