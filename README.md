@@ -159,10 +159,13 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 </div>
 
 <div align="center">
+  
   <!-- Botao 1 -->
   [![Visite Minha Galeria Dio](https://img.shields.io/badge/-Visite%20Minha%20Galeria%20DIO-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://www.dio.me/users/hueini_david)
+  
   <!-- Botão 2 -->
   [![Visite Meus Certificados](https://img.shields.io/badge/-Visite%20meus%20Certificados-1e52cc?style=for-the-badge&logo=&logoColor=white)](https://hueini.com.br/#certificados)
+  
 </div>
 
 
