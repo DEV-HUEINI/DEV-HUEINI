@@ -1,5 +1,6 @@
-<!-- <div align="center" align-items: center;"> -->
-
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Titulo -->
+<!-- ################################################################################################################################################################################################# -->
 
 <div style="background-image: url('https://github.com/Hueini/images/blob/main/23485382_42.jpg?raw=true'); background-repeat: no-repeat; background-attachment: fixed; padding:  40px; overflow: hidden;">
 
@@ -8,6 +9,10 @@
   Hueini David
 </h1>
 
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Hueini David /? -->
+<!-- ################################################################################################################################################################################################# -->
+
 ## >_ Hueini David /?
 
 Olá meu nome é Hueini David,
@@ -15,6 +20,10 @@ Olá meu nome é Hueini David,
 Formado em Ciência da Computação, estudante de Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina. Em busca de novas oportunidades, conhecimento e inovação.
 
 Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compartilho um pouco de mim e do meu conhecimento. Espero que goste e fique à vontade para entrar em contato comigo...
+
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Conecte-se comigo -->
+<!-- ################################################################################################################################################################################################# -->
 
 ## >_ Conecte-se comigo
 
@@ -39,6 +48,11 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 [![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@DEV-HUEINI)
 [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEV-HUEINI)
 [![E-mail](https://img.shields.io/badge/-hueini.david@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hueini.david@gmail.com)
+
+
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Habilidades -->
+<!-- ################################################################################################################################################################################################# -->
 
 ## >_ Habilidades
 
@@ -69,6 +83,10 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-000?style=for-the-badge&logo=ai&logoColor=00FF00)
 
 
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Projetos -->
+<!-- ################################################################################################################################################################################################# -->
+
 ## >_ Projetos
 
 <!-- Botao -->
@@ -77,6 +95,9 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 <!-- Botao -->
 ![Imagem Site Projetos](https://github.com/Hueini/images/blob/main/Projetos.png?raw=true)
 
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Meus Códigos -->
+<!-- ################################################################################################################################################################################################# -->
 
 ## >_ Meus Códigos
 | **DIO Lab Open Source** | **Curso DIO IA AWS SageMaker** |
@@ -85,6 +106,9 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 | **Projeto IoT Pós-Graduação** |  |
 | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=DEV-HUEINI&repo=POS-AD-PROJETO-IOT&bg_color=000&border_color=1e52cc&show_icons=true&icon_color=1e52cc&title_color=1e52cc&text_color=FFF)](https://github.com/DEV-HUEINI/POS-AD-PROJETO-IOT) |  |
 
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Vídeos -->
+<!-- ################################################################################################################################################################################################# -->
 
 ## >_ Vídeos
 
@@ -96,7 +120,9 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
     <img src="https://img.youtube.com/vi/ddNoWz2HxkU/0.jpg" width="420" height="280" />
 </a>
 
-
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ GitHub Stats -->
+<!-- ################################################################################################################################################################################################# -->
 
 ## >_ GitHub Stats
 
@@ -107,38 +133,27 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEV-HUEINI&layout=compact&bg_color=000&hide_border=true" width="400px"> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEV-HUEINI&bg_color=000&color=1e52cc&line=1e52cc&point=1e52cc&area=true&hide_border=true" width="400px"> |
 
 
-
+<!-- ################################################################################################################################################################################################# -->
+<!-- ## >_ Galeria DIO -->
+<!-- ################################################################################################################################################################################################# -->
 
 ## >_ Galeria DIO
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
   <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" height="50" title="Versionamento de Código com Git e GitHub">
-  
   <img src="https://hermes.dio.me/courses/badge/e0e188c9-b6a0-480b-8193-db82af104f95.png" height="50" title="Conhecendo a Linguagem de Programação Python">
-  
   <img src="https://hermes.dio.me/courses/badge/b85cb414-1694-45ee-8a52-c43c1ba0b6b9.png" height="50" title="Ambiente de Desenvolvimento e Primeiros Passos com Python"> 
-  
   <img src="https://hermes.dio.me/tracks/72f36aaa-f969-4063-97d3-a2ea61b4114a.png" height="50" title="Bootcamp Nexa - Machine Learning para Iniciantes na AWS">
-  
   <img src="https://hermes.dio.me/lab_projects/badges/9ce15442-3b88-40e7-a725-fa6d1a9d35e5.png" height="50" title="Previsão de Estoque Inteligente na AWS com Sagemaker Canvas">
-  
   <img src="https://hermes.dio.me/courses/badge/a77c03e1-0c3b-49c4-b6b8-e002cbc4bf90.png" height="50" title="Desafios de Projetos: Crie Um Portfólio Vencedor">
-  
   <img src="https://hermes.dio.me/code_challenge/badge/6ac7a6c5-ee9a-478a-bdc1-644232a6d733.png" height="50" title="Explorando o SageMaker Canvas com Lógica de Programação">
-  
   <img src="https://hermes.dio.me/courses/badge/a2d924d5-dd2b-42e5-b2f9-df3040569468.png" height="50" title="Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional">
-  
   <img src="https://hermes.dio.me/courses/badge/61945b0f-6098-4971-8bd6-aea8f1c3ac97.png" height="50" title="Transformando Dados em Insights com SageMaker Canvas">
-  
   <img src="https://hermes.dio.me/courses/badge/4b3e0e6c-28aa-4240-90ca-00ce6984ac3f.png" height="50" title="Introdução ao SageMaker Canvas: IA Generativa Sem Código">
-  
   <img src="https://hermes.dio.me/courses/badge/a5bfea66-d73c-4342-87d7-3f3541ef1f40.png" height="50" title="Introdução ao Desenvolvimento Low-Code">
-  
   <img src="https://hermes.dio.me/courses/badge/2f5391bf-d17e-4f43-abf1-20014d2bfb91.png" height="50" title="O que são IAs Generativas">
-  
   <img src="https://hermes.dio.me/courses/badge/bdd66ee6-96a0-4817-8e10-7652d50e0f90.png" height="50" title="Processamento de Linguagem Natura">
-  
   <img src="https://hermes.dio.me/courses/badge/0fd374a2-a9a3-44c4-855b-3c72d1a50b22.png" height="50" title="Algoritmos e Aprendizado de Máquina">
   
 </div>
@@ -151,14 +166,15 @@ Acredito que a tecnologia tem o poder de transformar vidas, diante disto, compar
 </div>
 
 
-
-
 <!-- <h2 align="center">Principais tecnologias:</h2>
 </br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,cs,java,spring,react,mysql,git,github,vscode,visualstudio,figma,&perline=8" />
 </div> -->
 
+<!-- ################################################################################################################################################################################################# -->
+<!-- Contador -->
+<!-- ################################################################################################################################################################################################# -->
 
 <h1></h1>
 <div style="text-align: center;">
